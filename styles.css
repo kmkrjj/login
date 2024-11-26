@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title {
+    color: #0096FF;
+}
+
+.userName, .email, .password {
+    outline-color: #1aacac;
+    outline-style: groove;
+    outline-style: dashed;
+    outline-width: 3px;
+}
+
+.submit, .login {
+    background-color: #00FF;
+}
+
+.gender {
+    color: #0096FF;
+}
+
+.checkbox {
+    color: #0096FF;
+}
